@@ -5,6 +5,8 @@
 		<title>Личная страница Анастасии Вебер</title>
 	 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		<meta charset="utf-8">
+		<body style="background: url(https://data.whicdn.com/images/21056445/large.jpg); background-repeat: no-repeat;">
+
 		<meta name="description" content="Личная страница и контакты">
 		
     	<link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet" media="screen">
@@ -23,17 +25,17 @@
 				</nav> 
 			</div>
 		</nav>
-		<header style="background-color:blue; padding-top:100px; "> 
+		<header style="background-color:blue;background-image: url(https://data.whicdn.com/images/21056445/large.jpg); padding-top:60px; "> 
 			<div class="container"> 
 				<div class="row">
 					<div class="col-md-4">
 						<br/><br/>
 						<h1>Настя ВЕБЕР</h1>
 						<hr>
-						<p><i>Человек, умеющий делать HTML</i></p> 
+						<p><i>Человек, который не любит много говорить о себе</i></p> 
 	                </div>
 					<div class="col-md-4">
-        	            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Petrus_Christus_-_Portrait_of_a_Young_Woman_-_Google_Art_Project.jpg/368px-Petrus_Christus_-_Portrait_of_a_Young_Woman_-_Google_Art_Project.jpg" title="Petrus Christus - Portrait of a Young Woman - Google Art Project.jpg" alt="" style="height:320px; margin:20px 20px 40px 20px;border: 1px solid red; border-radius: 20px; " >
+        	            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Petrus_Christus_-_Portrait_of_a_Young_Woman_-_Google_Art_Project.jpg/368px-Petrus_Christus_-_Portrait_of_a_Young_Woman_-_Google_Art_Project.jpg" title="Petrus Christus - Portrait of a Young Woman - Google Art Project.jpg" alt="" style="height:400px; margin:0px 10px 10px 10px;border: 1px solid red; border-radius: 20px; " >
 					</div>
 	            </div>
 			</div>
